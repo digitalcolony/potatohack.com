@@ -69,7 +69,6 @@ This is a hobby project maintained in the spirit of the early web. While the cod
 
 - **Live Site**: [https://potatohack.com](https://potatohack.com)
 - **GitHub Repository**: [https://github.com/digitalcolony/potatohack.com](https://github.com/digitalcolony/potatohack.com)
-- **Potato Hack Calculator**: [https://calc.potatohack.com](https://calc.potatohack.com)
 
 ## About the Maintainer
 
